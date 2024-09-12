@@ -71,14 +71,14 @@ The official GitHub page for the survey paper "Towards Next-Generation LLM-based
 10. [Leveraging Large Language Models in Conversational Recommender Systems](https://arxiv.org/abs/2305.07961)
 11. [Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System](https://arxiv.org/abs/2303.14524)
 12. [Leveraging Large Language Models for Recommendation and Explanation](https://ceur-ws.org/Vol-3534/paper6.pdf)
-13. [Leveraging Large Language Models for Recommendation and Explanation]()
-14. [GPT as a Baseline for Recommendation Explanation Texts](https://arxiv.org/abs/2309.08817)
-15. [Supporting Student Decisions on Learning Recommendations: An LLM-Based Chatbot with Knowledge Graph Contextualization for Conversational Explainability and Mentoring](https://arxiv.org/abs/2401.08517)
-16. [Knowledge Graphs as Context Sources for LLM-Based Explanations of Learning Recommendations](https://arxiv.org/abs/2403.03008)
-17. [BookGPT: A General Framework for Book Recommendation Empowered by Large Language Model](https://arxiv.org/abs/2305.15673)
-18. [LLMRec: Benchmarking Large Language Models on Recommendation Task](https://arxiv.org/abs/2308.12241)
-19. [PAP-REC: Personalized Automatic Prompt for Recommendation Language Model](https://arxiv.org/abs/2402.00284)
-20. [RecMind: Large Language Model Powered Agent For Recommendation](https://arxiv.org/abs/2308.14296)
+13. [GPT as a Baseline for Recommendation Explanation Texts](https://arxiv.org/abs/2309.08817)
+14. [Supporting Student Decisions on Learning Recommendations: An LLM-Based Chatbot with Knowledge Graph Contextualization for Conversational Explainability and Mentoring](https://arxiv.org/abs/2401.08517)
+15. [Knowledge Graphs as Context Sources for LLM-Based Explanations of Learning Recommendations](https://arxiv.org/abs/2403.03008)
+16. [BookGPT: A General Framework for Book Recommendation Empowered by Large Language Model](https://arxiv.org/abs/2305.15673)
+17. [LLMRec: Benchmarking Large Language Models on Recommendation Task](https://arxiv.org/abs/2308.12241)
+18. [PAP-REC: Personalized Automatic Prompt for Recommendation Language Model](https://arxiv.org/abs/2402.00284)
+19. [RecMind: Large Language Model Powered Agent For Recommendation](https://arxiv.org/abs/2308.14296)
+20. [Prompt Distillation for Efficient LLM-based Recommendation](https://dl.acm.org/doi/abs/10.1145/3583780.3615017)
 
 
 ## Scheming and Utilizing
