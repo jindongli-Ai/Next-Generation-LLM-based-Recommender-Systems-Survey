@@ -59,6 +59,26 @@ The official GitHub page for the survey paper "Towards Next-Generation LLM-based
 6. [LLMRG: Improving Recommendations through Large Language Model Reasoning Graphs](https://ojs.aaai.org/index.php/AAAI/article/view/29887)
 
 #### Post-Recommendation Explanations
+1. [Unlocking the Potential of Large Language Models for Explainable Recommendations](https://arxiv.org/abs/2312.15661)
+2. [Fine-Tuning Large Language Model Based Explainable Recommendation with Explainable Quality Reward](https://ojs.aaai.org/index.php/AAAI/article/view/28777)
+3. [LLM4Vis: Explainable Visualization Recommendation using ChatGPT](https://arxiv.org/abs/2310.07652)
+4. [Navigating User Experience of ChatGPT-based Conversational Recommender Systems: The Effects of Prompt Guidance and Recommendation Domain](https://arxiv.org/abs/2405.13560)
+5. [DRE: Generating Recommendation Explanations by Aligning Large Language Models at Data-level](https://arxiv.org/abs/2404.06311)
+6. [Uncertainty-Aware Explainable Recommendation with Large Language Models](https://arxiv.org/abs/2402.03366)
+7. [Where to Move Next: Zero-shot Generalization of LLMs for Next POI Recommendation](https://ieeexplore.ieee.org/abstract/document/10605522)
+8. [Leveraging ChatGPT for Automated Human-centered Explanations in Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3640543.3645171)
+9. [Logic-Scaffolding: Personalized Aspect-Instructed Recommendation Explanation Generation using LLMs](https://dl.acm.org/doi/abs/10.1145/3616855.3635689)
+10. [Leveraging Large Language Models in Conversational Recommender Systems](https://arxiv.org/abs/2305.07961)
+11. [Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System](https://arxiv.org/abs/2303.14524)
+12. [Leveraging Large Language Models for Recommendation and Explanation](https://ceur-ws.org/Vol-3534/paper6.pdf)
+13. [Leveraging Large Language Models for Recommendation and Explanation]()
+14. [GPT as a Baseline for Recommendation Explanation Texts](https://arxiv.org/abs/2309.08817)
+15. [Supporting Student Decisions on Learning Recommendations: An LLM-Based Chatbot with Knowledge Graph Contextualization for Conversational Explainability and Mentoring](https://arxiv.org/abs/2401.08517)
+16. [Knowledge Graphs as Context Sources for LLM-Based Explanations of Learning Recommendations](https://arxiv.org/abs/2403.03008)
+17. [BookGPT: A General Framework for Book Recommendation Empowered by Large Language Model](https://arxiv.org/abs/2305.15673)
+18. [LLMRec: Benchmarking Large Language Models on Recommendation Task](https://arxiv.org/abs/2308.12241)
+19. [PAP-REC: Personalized Automatic Prompt for Recommendation Language Model](https://arxiv.org/abs/2402.00284)
+20. [RecMind: Large Language Model Powered Agent For Recommendation](https://arxiv.org/abs/2308.14296)
 
 
 ## Scheming and Utilizing
