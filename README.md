@@ -53,10 +53,10 @@ The official GitHub page for the survey paper "Towards Next-Generation LLM-based
 #### Pre-Recommendation Explanations
 1. [Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models](https://arxiv.org/abs/2312.16275)
 2. [Learning Structure and Knowledge Aware Representation with Large Language Models for Concept Recommendation](https://arxiv.org/abs/2405.12442)
-3. []()
-4. []()
-5. []()
-6. []()
+3. [LLM-Guided Multi-View Hypergraph Learning for Human-Centric Explainable Recommendation](https://arxiv.org/abs/2401.08217)
+4. [RDRec: Rationale Distillation for LLM-based Recommendation](https://arxiv.org/abs/2405.10587)
+5. [User-Centric Conversational Recommendation: Adapting the Need of User with Large Language Models](https://dl.acm.org/doi/abs/10.1145/3604915.3608885)
+6. [LLMRG: Improving Recommendations through Large Language Model Reasoning Graphs](https://ojs.aaai.org/index.php/AAAI/article/view/29887)
 
 #### Post-Recommendation Explanations
 
