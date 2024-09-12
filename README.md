@@ -84,6 +84,27 @@ The official GitHub page for the survey paper "Towards Next-Generation LLM-based
 ## Scheming and Utilizing
 
 ### Non-Generative LLM-based Approaches
+#### LLM Retraing
+##### Naive Fine-Tuning
+
+##### Instruction Tuning
+
+##### Low-Rank Adapataion (LoRA)
+
+
+#### LLM Reusing
+##### Direct Utilizing
+
+##### Prompt Tuning
+
+##### In-Context Learning (ICL)
+1. [Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System](https://arxiv.org/abs/2303.14524)
+2. [DRE: Generating Recommendation Explanations by Aligning Large Language Models at Data-level](https://arxiv.org/abs/2404.06311)
+3. [Efficient and Responsible Adaptation of Large Language Models for Robust Top-k Recommendations](https://arxiv.org/abs/2405.00824)
+4. [Uncovering ChatGPT’s Capabilities in Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3604915.3610646)
+5. [New Community Cold-Start Recommendation: A Novel Large Language Model-based Method](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4828316)
+6. [LANE: Logic Alignment of Non-tuning Large Language Models and Online Recommendation Systems for Explainable Reason Generation](https://arxiv.org/abs/2407.02833)
+
 
 ### Generative LLM-based Approaches
 #### LLM Retraing
@@ -97,7 +118,7 @@ The official GitHub page for the survey paper "Towards Next-Generation LLM-based
 7. [CALRec: Contrastive Alignment of Generative LLMs For Sequential Recommendation](https://arxiv.org/abs/2405.02429)
 ##### Instruction Tuning
 1. [Multiple Key-Value Strategy in Recommendation Systems Incorporating Large Language Model](https://arxiv.org/abs/2310.16409)
-##### LoRA
+##### Low-Rank Adaptation (LoRA)
 1. [Genrec: Large Language Model for Generative Recommendation](https://link.springer.com/chapter/10.1007/978-3-031-56063-7_42)
 
 #### LLM Reusing
