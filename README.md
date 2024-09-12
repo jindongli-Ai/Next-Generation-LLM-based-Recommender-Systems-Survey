@@ -39,6 +39,15 @@ The official GitHub page for the survey paper "Towards Next-Generation LLM-based
 
 
 #### Multi-Modality
+1. [LLMRec: Large Language Models with Graph Augmentation for Recommendation](https://dl.acm.org/doi/abs/10.1145/3616855.3635853)
+2. [InteraRec: Interactive Recommendations Using Multimodal Large Language Models](https://link.springer.com/chapter/10.1007/978-981-97-2650-9_3)
+3. [Zero-Shot Recommendations with Pre-Trained Large Language Models for Multimodal Nudging](https://ieeexplore.ieee.org/abstract/document/10411560)
+4. [Large Language Models for Next Point-of-Interest Recommendation](https://dl.acm.org/doi/abs/10.1145/3626772.3657840)
+5. [Heterogeneous Knowledge Fusion: A Novel Approach for Personalized Recommendation via LLM](https://dl.acm.org/doi/abs/10.1145/3604915.3608874)
+6. [MMREC: LLM Based Multi-Modal Recommender System](https://arxiv.org/abs/2408.04211)
+7. [Harnessing Multimodal Large Language Models for Multimodal Sequential Recommendation](https://arxiv.org/abs/2408.09698)
+8. [X-Reflect: Cross-Reflection Prompting for Multimodal Recommendation](https://arxiv.org/abs/2408.15172)
+
 
 ### Understanding
 #### 'explain' before recommendation
