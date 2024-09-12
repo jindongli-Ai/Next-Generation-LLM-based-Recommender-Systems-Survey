@@ -17,9 +17,42 @@ The official GitHub page for the survey paper "Towards Next-Generation LLM-based
 ![Alt text](./figs/LLM-using.png)
 
 
-## Generative LLM-based Approaches
-### LLM Retraing
-#### Naive Fine-Tuning
+
+
+## Representing and Understanding
+### Representing
+#### Uni-Modality
+1. [LLaRA: Large Language-Recommendation Assistant](https://dl.acm.org/doi/abs/10.1145/3626772.3657690)
+2. [DRDT: Dynamic Reflection with Divergent Thinking for LLM-based Sequential Recommendation](https://arxiv.org/abs/2312.11336)
+3. [Modeling User Viewing Flow using Large Language Models for Article Recommendation](https://dl.acm.org/doi/abs/10.1145/3589335.3648305)
+4. [Harnessing Large Language Models for Text-Rich Sequential Recommendation](https://dl.acm.org/doi/abs/10.1145/3589334.3645358)
+5. [FineRec: Exploring Fine-grained Sequential Recommendation](https://dl.acm.org/doi/abs/10.1145/3626772.3657761)
+6. [Enhancing Sequential Recommendation via LLM-based Semantic Embedding Learning](https://dl.acm.org/doi/abs/10.1145/3589335.3648307)
+7. [A Multi-facet Paradigm to Bridge Large Language Model and Recommendation](https://arxiv.org/abs/2310.06491)
+8. [Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models](https://arxiv.org/abs/2312.16275)
+9. [Representation Learning with Large Language Models for Recommendation](https://dl.acm.org/doi/abs/10.1145/3589334.3645458)
+10. [LLM-Enhanced User-Item Interactions: Leveraging Edge Information for Optimized Recommendations](https://arxiv.org/abs/2402.09617)
+11. [GenRec: Large Language Model for Generative Recommendation](https://link.springer.com/chapter/10.1007/978-3-031-56063-7_42)
+12. [IDGenRec: LLM-RecSys Alignment with Textual ID Learning](https://dl.acm.org/doi/abs/10.1145/3626772.3657821)
+13. [Collaborative Large Language Model for Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3589334.3645347)
+14. [Multiple Key-value Strategy in Recommendation Systems Incorporating Large Language Model](https://arxiv.org/abs/2310.16409)
+
+
+#### Multi-Modality
+
+### Understanding
+#### 'explain' before recommendation
+
+#### explain after recommendation
+
+
+## Scheming and Utilizing
+
+### Non-Generative LLM-based Approaches
+
+### Generative LLM-based Approaches
+#### LLM Retraing
+##### Naive Fine-Tuning
 1. [GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation](https://arxiv.org/abs/2304.03879)
 2. [LLM-Enhanced User-Item Interactions: Leveraging Edge Information for Optimized Recommendations](https://arxiv.org/abs/2402.09617)
 3. [RecGPT: Generative Personalized Prompts for Sequential Recommendation via ChatGPT Training Paradigm](https://arxiv.org/abs/2404.08675)
@@ -27,21 +60,21 @@ The official GitHub page for the survey paper "Towards Next-Generation LLM-based
 5. [IDGenRec: LLM-RecSys Alignment with Textual ID Learning](https://dl.acm.org/doi/abs/10.1145/3626772.3657821)
 6. [Collaborative large language model for recommender systems](https://dl.acm.org/doi/abs/10.1145/3589334.3645347)
 7. [CALRec: Contrastive Alignment of Generative LLMs For Sequential Recommendation](https://arxiv.org/abs/2405.02429)
-#### Instruction Tuning
+##### Instruction Tuning
 1. [Multiple Key-Value Strategy in Recommendation Systems Incorporating Large Language Model](https://arxiv.org/abs/2310.16409)
-#### LoRA
+##### LoRA
 1. [Genrec: Large Language Model for Generative Recommendation](https://link.springer.com/chapter/10.1007/978-3-031-56063-7_42)
 
-### LLM Reusing
-#### Direct Utilizing
+#### LLM Reusing
+##### Direct Utilizing
 1. [How to Index Item IDs for Recommendation Foundation Models](https://dl.acm.org/doi/abs/10.1145/3624918.3625339)
 2. [Supporting Student Decisions on Learning Recommendations: An LLM-based Chatbot with Knowledge Graph Contextualization for Conversational Explainability and Mentoring](https://arxiv.org/abs/2401.08517)
 3. [Large Language Models as Zero-Shot Conversational Recommenders](https://dl.acm.org/doi/abs/10.1145/3583780.3614949)
 4. [Bookgpt: A General Framework for Book Recommendation Empowered by Large Language Model]()
 5. [ONCE: Boosting Content-based Recommendation with Both Open- and Closed-source Large Language Models](https://dl.acm.org/doi/abs/10.1145/3616855.3635845)
-#### Prompt Tuning
+##### Prompt Tuning
 1. [PMG: Personalized Multimodal Generation with Large Language Models](https://dl.acm.org/doi/abs/10.1145/3589334.3645633)
-#### Components or Strategies for Generative Recommendation
+##### Components or Strategies for Generative Recommendation
 1. [Learnable Tokenizer for LLM-based Generative Recommendation](https://arxiv.org/abs/2405.07314)
 
 
