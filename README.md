@@ -51,6 +51,12 @@ The official GitHub page for the survey paper "Towards Next-Generation LLM-based
 
 ### Understanding
 #### 'explain' before recommendation
+1. [Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models](https://arxiv.org/abs/2312.16275)
+2. [Learning Structure and Knowledge Aware Representation with Large Language Models for Concept Recommendation](https://arxiv.org/abs/2405.12442)
+3. []()
+4. []()
+5. []()
+6. []()
 
 #### explain after recommendation
 
