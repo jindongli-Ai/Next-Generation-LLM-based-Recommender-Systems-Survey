@@ -4,11 +4,10 @@ The official GitHub page for the survey paper "Towards Next-Generation LLM-based
 ## Introduction
 ![Alt text](./figs/pyramid.png)
 <br>
-<br>
 
 ### The comparison between this work and existing surveys
 
-| **Paper**                                                                                   | **Non-Gen. RS** | **Gen. RS** | **Scenarios**                  | **Aca.** | **Ind.** | **Pipeline**                                                                             | **Highlights**                                                                                                                              |
+| **Paper**                                                                                   | **Non-Gen. RS** | **Gen. RS** | **Scen.**                  | **Aca.** | **Ind.** | **Pipeline**                                                                             | **Highlights**                                                                                                                              |
 |---------------------------------------------------------------------------------------------|-------|-----------|-------------------------------------|----------|-----------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
 | 'A survey on large language models for recommendation'                                      | ✅    | ✅       | common (all kinds)                  | ✅        |           | (1) Discriminative LLM4REC (2) Generative LLM4REC Modeling Paradigms: (i) LLM Embeddings + RS (ii) LLM Tokens + RS (iii) LLM as RS | focuses on expanding the capacity of language models                                                  |
 | 'How Can Recommender Systems Benefit from Large Language Models: A Survey'                  | ✅    |          | common (all kinds)                   |          | ✅        | (1) Where to adapt to LLM (2) How to adapt to LLM                                              | from the angle of the whole pipeline in industrial recommender systems                                                                    |
@@ -19,7 +18,8 @@ The official GitHub page for the survey paper "Towards Next-Generation LLM-based
 | 'Large language models for generative recommendation: A survey and visionary discussions'   |       | ✅       | common (all kinds)                  | ✅        |           | (1) ID Creation Methods (2) How to Do Generative Recommendation                                 | reviews the recent progress of LLM-based generative recommendation and provides a general formulation for each generative recommendation task according to relevant research |
 | **Ours**                                                                                    | ✅   | ✅       | common (all kinds)                   | ✅        | ✅       | (1) Understanding and Representing (2) Scheming and Utilizing (3) Industrial Deploying          | (1) reviews existing works from the perspective of recommender system community (2) clearly discuss the gap from academic research to industrial application |
 
-
+(Gen.: Generative, RS: Recommendation System, Scen.: Scenarios, Aca.: Academic, Ind.: Industrial)
+Scenarios
 
 
 
@@ -259,6 +259,28 @@ The official GitHub page for the survey paper "Towards Next-Generation LLM-based
 1. [PMG: Personalized Multimodal Generation with Large Language Models](https://dl.acm.org/doi/abs/10.1145/3589334.3645633)
 ##### Components or Strategies for Generative Recommendation
 1. [Learnable Tokenizer for LLM-based Generative Recommendation](https://arxiv.org/abs/2405.07314)
+<br>
+
+### The existing LLM-based works for generative recommendations
+
+| **Model/Paper**                                                                                           | **Task/Domain**                                          | **Data Modality**                       | **Main Techniques**                                              | **Source Code**                                                                                           |
+|-----------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| 'Multiple Key-value Strategy in Recommendation Systems Incorporating Large Language Model'                | sequential recommendation                                | multiple key-value data                 | pre-train, instruction tuning                                    | ~                                                                                                         |
+| 'Large language models as zero-shot conversational recommenders'                                          | zero-shot conversational recommendation                  | text (conversational recommendation dataset) | prompt                                                      | [https://github.com/AaronHeee/LLMs-as-Zero-Shot-Conversational-RecSys](https://github.com/AaronHeee/LLMs-as-Zero-Shot-Conversational-RecSys)   |
+| 'Bookgpt: A general framework for book recommendation empowered by large language model'                  | book recommendation                                      | interaction, text                       | prompt                                                           | [https://github.com/zhiyulee-RUC/bookgpt](https://github.com/zhiyulee-RUC/bookgpt)                        |
+| 'How to index item ids for recommendation foundation models'                                              | sequential recommendation                                | interaction, text                       | item ID indexing                                                 | [https://github.com/Wenyueh/LLM-RecSys-ID](https://github.com/Wenyueh/LLM-RecSys-ID)                      |
+| 'Supporting student decisions on learning recommendations: An llm-based chatbot with knowledge graph contextualization for conversational explainability and mentoring'   | learning recommendation     | graph data, text       | ~                                              | ~                                                                                                         |
+| 'GPT4Rec: A generative framework for personalized recommendation and user interests interpretation'       | next-item prediction                                     | interaction, item title                 | prompt, pre-train, fine-tune                                     | ~                                                                                                         |
+| 'LLM-Enhanced User-Item Interactions: Leveraging Edge Information for Optimized Recommendations'          | item recommendation                                      | interaction                             | prompt, pre-train, fine-tune                                     | [https://github.com/anord-wang/LLM4REC.git](https://github.com/anord-wang/LLM4REC.git)                    |
+| 'RecGPT: Generative Personalized Prompts for Sequential Recommendation via ChatGPT Training Paradigm'     | sequential recommendation                                | sequences of words                      | prompt, pre-train, fine-tune                                     | ~                                                                                                         |
+| 'RecGPT: Generative Pre-training for Text-based Recommendation'                                           | rating prediction, sequential recommendation             | text                                    | pre-train, fine-tune                                             | [https://github.com/VinAIResearch/RecGPT](https://github.com/VinAIResearch/RecGPT)                        |
+| 'Genrec: Large language model for generative recommendation'                                              | movie recommendation                                     | interaction, textual-information        | prompt, pre-train, fine-tune                                     | [https://github.com/rutgerswiselab/GenRec](https://github.com/rutgerswiselab/GenRec)                      |
+| 'IDGenRec: LLM-RecSys Alignment with Textual ID Learning'                                                 | sequential recommendation, zero-shot recommendation      | interaction, text                       | natural language generation                                      | [https://github.com/agiresearch/IDGenRec](https://github.com/agiresearch/IDGenRec)                        |
+| 'Collaborative large language model for recommender systems'                                              | item recommendation                                      | interaction, text                       | prompt, pre-train, fine-tune                                     | [https://github.com/yaochenzhu/llm4rec](https://github.com/yaochenzhu/llm4rec)                            |
+| 'PMG: Personalized Multimodal Generation with Large Language Models'                                      | personalized multimodal generation                       | text, image, audio, etc                 | prompt, pre-train, Prompt Tuning (P-Tuning V2 \citet{2021_arXiv_P-Tuning_V2}) | [https://github.com/mindspore-lab/models/tree/master/research/huawei-noah/PMG](https://github.com/mindspore-lab/models/tree/master/research/huawei-noah/PMG) |
+| 'CALRec: Contrastive Alignment of Generative LLMs For Sequential Recommendation'                          | sequential recommendation                                | interaction, text                       | pre-train, fine-tune, contrastive learning                       | ~                                                                                                         |
+| 'Once: Boosting content-based recommendation with both open-and closed-source large language models'      | content-based recommendation (news recommendation, book recommendation) | interaction, text                       | prompt                                                | [https://github.com/Jyonn/ONCE](https://github.com/Jyonn/ONCE)                                        |
+
 
 
 
@@ -283,6 +305,9 @@ The official GitHub page for the survey paper "Towards Next-Generation LLM-based
 17. [Beyond Labels: Leveraging Deep Learning and LLMs for Content Metadata](https://dl.acm.org/doi/abs/10.1145/3604915.3608883)
 18. [TRAWL: External Knowledge-Enhanced Recommendation with LLM Assistance](https://arxiv.org/abs/2403.06642)
 19. [Heterogeneous Knowledge Fusion: A Novel Approach for Personalized Recommendation via LLM](https://dl.acm.org/doi/abs/10.1145/3604915.3608874)
+<br>
+
+### The existing LLM-based works which could be deployed in industry
 
 | **Model/Paper**                                                                                                            | **Company**       | **Task/Domain**                                     | **Highlights**                                                                                         |
 |----------------------------------------------------------------------------------------------------------------------------|-------------------|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------|
