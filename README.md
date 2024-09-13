@@ -101,6 +101,22 @@ The official GitHub page for the survey paper "Towards Next-Generation LLM-based
 11. [Review-driven Personalized Preference Reasoning with Large Language Models for Recommendation](https://arxiv.org/abs/2408.06276)
 
 ##### Low-Rank Adapataion (LoRA)
+1. [ONCE: Boosting Content-based Recommendation with Both Open- and Closed-source Large Language Models](https://dl.acm.org/doi/abs/10.1145/3616855.3635845)
+2. [Breaking the Length Barrier: LLM-Enhanced CTR Prediction in Long Textual User Behaviors](https://dl.acm.org/doi/abs/10.1145/3626772.3657974)
+3. [TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation](https://dl.acm.org/doi/abs/10.1145/3604915.3608857)
+4. [Harnessing Large Language Models for Text-Rich Sequential Recommendation](https://dl.acm.org/doi/abs/10.1145/3589334.3645358)
+5. [E4SRec: An Elegant Effective Efficient Extensible Solution of Large Language Models for Sequential Recommendation](https://arxiv.org/abs/2312.02443)
+6. [Enhancing Content-based Recommendation via Large Language Model](https://arxiv.org/abs/2404.00236)
+7. [Large Language Model Distilling Medication Recommendation Model](https://arxiv.org/abs/2402.02803)
+8. [LLaRA: Large Language-Recommendation Assistant](https://dl.acm.org/doi/abs/10.1145/3626772.3657690)
+9. [Exact and Efficient Unlearning for Large Language Model-based Recommendation](https://arxiv.org/abs/2404.10327)
+10. [Towards Efficient and Effective Unlearning of Large Language Models for Recommendation](https://arxiv.org/abs/2403.03536)
+11. [LLM-based Federated Recommendation](https://arxiv.org/abs/2402.09959)
+12. [Aligning Large Language Models for Controllable Recommendations](https://arxiv.org/abs/2403.05063)
+13. [Lifelong Personalized Low-Rank Adaptation of Large Language Models for Recommendation](https://arxiv.org/abs/2408.03533)
+14. [Harnessing Multimodal Large Language Models for Multimodal Sequential Recommendation](https://arxiv.org/abs/2408.09698)
+15. [GANPrompt: Enhancing Robustness in LLM-Based Recommendations with GAN-Enhanced Diversity Prompts](https://arxiv.org/abs/2408.09671)
+16. [DELRec: Distilling Sequential Pattern to Enhance LLM-based Recommendation](https://arxiv.org/abs/2406.11156)
 
 
 #### LLM Reusing
