@@ -86,6 +86,32 @@ The official GitHub page for the survey paper "Towards Next-Generation LLM-based
 ### Non-Generative LLM-based Approaches
 #### LLM Retraing
 ##### Naive Fine-Tuning
+1. [Rethinking Large Language Model Architectures for Sequential Recommendations](https://arxiv.org/abs/2402.09543)
+2. [LLMRec: Benchmarking Large Language Models on Recommendation Task](https://arxiv.org/abs/2308.12241)
+3. [Improving Sequential Recommendations with LLMs](https://arxiv.org/abs/2402.01339)
+4. [An Unified Search and Recommendation Foundation Model for Cold-Start Scenario](https://dl.acm.org/doi/abs/10.1145/3583780.3614657)
+5. [Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations](https://arxiv.org/abs/2308.16505)
+6. [Leveraging Large Language Models for Sequential Recommendation](https://dl.acm.org/doi/abs/10.1145/3604915.3610639)
+7. [A Large Language Model Enhanced Conversational Recommender System](https://arxiv.org/abs/2308.06212)
+8. [Exploring Fine-tuning ChatGPT for News Recommendation](https://arxiv.org/abs/2311.05850)
+9. [Aligning Large Language Models with Recommendation Knowledge](https://arxiv.org/abs/2404.00245)
+10. [Conversational Recommender System and Large Language Model Are Made for Each Other in E-commerce Pre-sales Dialogue](https://arxiv.org/abs/2310.14626)
+11. [Data-Efficient Fine-Tuning for LLM-based Recommendation](https://dl.acm.org/doi/abs/10.1145/3626772.3657807)
+12. [CoLLM: Integrating Collaborative Embeddings into Large Language Models for Recommendation](https://dl.acm.org/doi/abs/10.1145/3626772.3657807)
+13. [Large Language Model with Graph Convolution for Recommendation](https://arxiv.org/abs/2402.08859)
+14. [A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems](https://arxiv.org/abs/2308.08434)
+15. [Learning Structure and Knowledge Aware Representation with Large Language Models for Concept Recommendation](https://arxiv.org/abs/2405.12442)
+16. [LoRec: Large Language Model for Robust Sequential Recommendation against Poisoning Attacks](https://arxiv.org/abs/2401.17723)
+17. [To Recommend or Not: Recommendability Identification in Conversations with Pre-trained Language Models](https://arxiv.org/abs/2403.18628)
+18. [Large Language Models for Next Point-of-Interest Recommendation](https://dl.acm.org/doi/abs/10.1145/3626772.3657840)
+19. [Leveraging large language models in conversational recommender systems](https://arxiv.org/abs/2305.07961)
+20. [Fine-Tuning Large Language Model Based Explainable Recommendation with Explainable Quality Reward](https://ojs.aaai.org/index.php/AAAI/article/view/28777)
+21. [Enhancing Recommendation Diversity by Re-ranking with Large Language Models](https://arxiv.org/abs/2401.11506)
+22. [NoteLLM: A Retrievable Large Language Model for Note Recommendation](https://dl.acm.org/doi/abs/10.1145/3589335.3648314)
+23. [Harnessing Large Language Models for Text-Rich Sequential Recommendation](https://dl.acm.org/doi/abs/10.1145/3589334.3645358)
+24. [LLM4DSR: Leveraing Large Language Model for Denoising Sequential Recommendation](https://arxiv.org/abs/2408.08208)
+25. [Beyond Inter-Item Relations: Dynamic Adaptive Mixture-of-Experts for LLM-Based Sequential Recommendation](https://arxiv.org/abs/2408.07427)
+26. [Improving Sequential Recommendations with LLMs](https://arxiv.org/abs/2402.01339)
 
 ##### Instruction Tuning
 1. [A Multi-facet Paradigm to Bridge Large Language Model and Recommendation](https://arxiv.org/abs/2310.06491v1)
