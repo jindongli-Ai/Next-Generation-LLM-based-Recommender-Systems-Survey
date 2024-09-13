@@ -3,6 +3,25 @@ The official GitHub page for the survey paper "Towards Next-Generation LLM-based
 
 ## Introduction
 ![Alt text](./figs/pyramid.png)
+<br>
+<br>
+
+### The comparison between this work and existing surveys
+
+| **Paper**                                                                                   | **Non-Gen. RS** | **Gen. RS** | **Scenarios**                  | **Aca.** | **Ind.** | **Pipeline**                                                                             | **Highlights**                                                                                                                              |
+|---------------------------------------------------------------------------------------------|-------|-----------|-------------------------------------|----------|-----------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| 'A survey on large language models for recommendation'                                      | ✅    | ✅       | common (all kinds)                  | ✅        |           | (1) Discriminative LLM4REC (2) Generative LLM4REC Modeling Paradigms: (i) LLM Embeddings + RS (ii) LLM Tokens + RS (iii) LLM as RS | focuses on expanding the capacity of language models                                                  |
+| 'How Can Recommender Systems Benefit from Large Language Models: A Survey'                  | ✅    |          | common (all kinds)                   |          | ✅        | (1) Where to adapt to LLM (2) How to adapt to LLM                                              | from the angle of the whole pipeline in industrial recommender systems                                                                    |
+| 'A Survey on Large Language Models for Personalized and Explainable Recommendations'        | ✅    |          | personalized and explainable RecSys | ✅        |           | (1) Explanation Generating for Recommendation                                                  | focuses on utilizing LLMs for personalized explanation generating task                                                                     |
+| 'Recommender systems in the era of large language models (llms)'                            | ✅    |          | common (all kinds)                  | ✅        |           | (1) Pre-training (2) Fine-tuning (3) Prompting                                                 | comprehensively reviews such domain-specific techniques for adapting LLMs to recommendations                                               |
+| 'A Review of Modern Recommender Systems Using Generative Models (Gen-RecSys)'               |       | ✅       | (1) interaction-driven (2) text-driven (3) multimodal | ✅  |      | (1) Generative Models for Interaction-Driven Recommendation (2) Large Language Models in Recommendation (3) Generative Multimodal Recommendation Systems | aims to connect the key advancements in RS using Generative Models (Gen-RecSys)     |
+| Multimodal Pretraining, Adaptation, and Generation for Recommendation: A Survey             | ✅    |          | multimodal recommendation           | ✅        |           | (1) Multimodal Pretraining for Recommendation (2) Multimodal Adaption for Recommendation (3) Multimodal Generation for Recommendation | seeks to provide a comprehensive exploration of the latest advancements and future trajectories in multimodal pretraining, adaptation, and generation techniques, as well as their applications to recommender systems |
+| 'Large language models for generative recommendation: A survey and visionary discussions'   |       | ✅       | common (all kinds)                  | ✅        |           | (1) ID Creation Methods (2) How to Do Generative Recommendation                                 | reviews the recent progress of LLM-based generative recommendation and provides a general formulation for each generative recommendation task according to relevant research |
+| **Ours**                                                                                    | ✅   | ✅       | common (all kinds)                   | ✅        | ✅       | (1) Understanding and Representing (2) Scheming and Utilizing (3) Industrial Deploying          | (1) reviews existing works from the perspective of recommender system community (2) clearly discuss the gap from academic research to industrial application |
+
+
+
+
 
 ### Structure
 ![Alt text](./figs/Structure.png)
