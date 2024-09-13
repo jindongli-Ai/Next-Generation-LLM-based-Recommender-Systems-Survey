@@ -88,6 +88,17 @@ The official GitHub page for the survey paper "Towards Next-Generation LLM-based
 ##### Naive Fine-Tuning
 
 ##### Instruction Tuning
+1. [A Multi-facet Paradigm to Bridge Large Language Model and Recommendation](https://arxiv.org/abs/2310.06491v1)
+2. [Heterogeneous Knowledge Fusion: A Novel Approach for Personalized Recommendation via LLM](https://dl.acm.org/doi/abs/10.1145/3604915.3608874)
+3. [Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations](https://ojs.aaai.org/index.php/AAAI/article/view/28769)
+4. [Item-side Fairness of Large Language Model-based Recommendation System](https://dl.acm.org/doi/abs/10.1145/3589334.3648158)
+5. [Integrating Large Language Models into Recommendation via Mutual Augmentation and Adaptive Aggregation](https://arxiv.org/abs/2401.13870)
+6. [RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation](https://arxiv.org/abs/2312.16018)
+7. [E4SRec: An Elegant Effective Efficient Extensible Solution of Large Language Models for Sequential Recommendation](https://arxiv.org/abs/2312.02443)
+8. [LLaRA: Large Language-Recommendation Assistant](https://dl.acm.org/doi/abs/10.1145/3626772.3657690)
+9. [Unlocking the Potential of Large Language Models for Explainable Recommendations](https://arxiv.org/abs/2312.15661)
+10. [LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking](https://arxiv.org/abs/2311.02089)
+11. [Review-driven Personalized Preference Reasoning with Large Language Models for Recommendation](https://arxiv.org/abs/2408.06276)
 
 ##### Low-Rank Adapataion (LoRA)
 
@@ -96,6 +107,10 @@ The official GitHub page for the survey paper "Towards Next-Generation LLM-based
 ##### Direct Utilizing
 
 ##### Prompt Tuning
+1. [PMG: Personalized Multimodal Generation with Large Language Models](https://dl.acm.org/doi/abs/10.1145/3589334.3645633)
+2. [Language-Based User Profiles for Recommendation](https://arxiv.org/abs/2402.15623)
+3. [Prompt Tuning Large Language Models on Personalized Aspect Extraction for Recommendations](https://arxiv.org/abs/2306.01475)
+4. [RecPrompt: A Prompt Tuning Framework for News Recommendation Using Large Language Models](https://arxiv.org/abs/2312.10463)
 
 ##### In-Context Learning (ICL)
 1. [Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System](https://arxiv.org/abs/2303.14524)
