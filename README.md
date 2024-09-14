@@ -24,7 +24,7 @@ Scenarios
 
 
 ### Structure
-![Alt text](./figs/Structure.png)
+![Alt text](./figs/structure.png)
 
 ### Pipeline
 ![Alt text](./figs/pipeline.png)
