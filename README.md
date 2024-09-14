@@ -19,8 +19,6 @@ The official GitHub page for the survey paper "Towards Next-Generation LLM-based
 | **Ours**                                                                                    | ✅   | ✅       | common (all kinds)                   | ✅        | ✅       | (1) Representing and Understanding (2) Scheming and Utilizing (3) Industrial Deploying          | (1) reviews existing works from the perspective of recommender system community (2) clearly discuss the gap from academic research to industrial application |
 
 (Gen.: Generative, RS: Recommendation System, Scen.: Scenarios, Aca.: Academic, Ind.: Industrial)
-Scenarios
-
 
 
 ### Structure
