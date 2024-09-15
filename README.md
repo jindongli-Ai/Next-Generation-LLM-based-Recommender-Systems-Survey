@@ -343,3 +343,6 @@ The official GitHub page for the survey paper "Towards Next-Generation LLM-based
 
 ## Challenges
 ![Alt text](./figs/challenge.png)
+
+
+![Alt text](./figs/statics_of_paper.png)
