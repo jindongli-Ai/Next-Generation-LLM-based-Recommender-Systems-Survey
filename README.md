@@ -249,7 +249,7 @@ The official GitHub page for the survey paper "Towards Next-Generation LLM-based
 1. [How to Index Item IDs for Recommendation Foundation Models](https://dl.acm.org/doi/abs/10.1145/3624918.3625339)
 2. [Supporting Student Decisions on Learning Recommendations: An LLM-based Chatbot with Knowledge Graph Contextualization for Conversational Explainability and Mentoring](https://arxiv.org/abs/2401.08517)
 3. [Large Language Models as Zero-Shot Conversational Recommenders](https://dl.acm.org/doi/abs/10.1145/3583780.3614949)
-4. [Bookgpt: A General Framework for Book Recommendation Empowered by Large Language Model]()
+4. [Bookgpt: A General Framework for Book Recommendation Empowered by Large Language Model](https://arxiv.org/abs/2305.15673#:~:text=By%20building%20a%20ChatGPT-like%20book%20recommendation%20system%20(BookGPT)%20framework%20based)
 5. [ONCE: Boosting Content-based Recommendation with Both Open- and Closed-source Large Language Models](https://dl.acm.org/doi/abs/10.1145/3616855.3635845)
 ##### Prompt Tuning
 1. [PMG: Personalized Multimodal Generation with Large Language Models](https://dl.acm.org/doi/abs/10.1145/3589334.3645633)
