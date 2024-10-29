@@ -1,6 +1,8 @@
 # Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond
 The official GitHub page for the survey paper "Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond".
 
+[[arXiv: https://arxiv.org/abs/2410.19744]](https://arxiv.org/abs/2410.19744)
+
 ## Introduction
 ![Alt text](./figs/pyramid.png)
 <br>
