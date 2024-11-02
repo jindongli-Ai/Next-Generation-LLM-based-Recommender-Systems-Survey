@@ -4,8 +4,9 @@ The official GitHub page for the survey paper "Towards Next-Generation LLM-based
 [[arXiv: https://arxiv.org/abs/2410.19744]](https://arxiv.org/abs/2410.19744)
 
 ## Introduction
-![Alt text](./figs/pyramid.png)
+<img src="./figs/pyramid.png" alt="Alt text" width="900" />
 <br>
+
 
 ### The comparison between this work and existing surveys
 
