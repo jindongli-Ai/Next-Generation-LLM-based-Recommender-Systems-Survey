@@ -349,3 +349,14 @@ The official GitHub page for the survey paper "Towards Next-Generation LLM-based
 
 
 ![Alt text](./figs/statics_of_paper.png)
+
+## Cite
+If you compare with, build on, or use aspects of this work, please cite the following:
+```
+@article{wang2024towards,
+  title={Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond},
+  author={Wang, Qi and Li, Jindong and Wang, Shiqi and Xing, Qianli and Niu, Runliang and Kong, He and Li, Rui and Long, Guodong and Chang, Yi and Zhang, Chengqi},
+  journal={arXiv preprint arXiv:2410.19744},
+  year={2024}
+}
+```
