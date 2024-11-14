@@ -3,6 +3,13 @@ The official GitHub page for the survey paper "Towards Next-Generation LLM-based
 
 [[arXiv: https://arxiv.org/abs/2410.19744]](https://arxiv.org/abs/2410.19744)
 
+
+<p align="center">
+    <img src="./figs/paper-information.png" alt="Pyramid" width="800" />
+</p>
+
+
+
 ## Introduction
 <p align="center">
     <img src="./figs/pyramid.png" alt="Pyramid" width="800" />
