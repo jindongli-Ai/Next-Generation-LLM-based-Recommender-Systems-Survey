@@ -1,4 +1,6 @@
-# Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond
+<div align="center">
+    <h1><b>Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond</b></h1>
+</div>
 The official GitHub page for the survey paper "Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond".
 
 
@@ -11,6 +13,12 @@ The official GitHub page for the survey paper "Towards Next-Generation LLM-based
 <a href="https://arxiv.org/abs/2410.19744" target="_blank"><img src="https://img.shields.io/badge/arXiv-2504.10903-009688.svg" alt="arXiv"></a>
 
 </div>
+
+
+<div align="center">
+    [arXiv][https://arxiv.org/abs/2410.19744]
+</div>
+
 
 
 
