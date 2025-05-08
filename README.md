@@ -18,6 +18,9 @@ The official GitHub page for the survey paper "Towards Next-Generation LLM-based
 <div align="center">
     [arXiv][https://arxiv.org/abs/2410.19744]
 </div>
+<div align="center">
+    [机器学习与推荐算法][https://mp.weixin.qq.com/s/2xM0Ax1P7ZprG5e6NL3WLA]
+</div>
 
 
 
