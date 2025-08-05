@@ -383,7 +383,7 @@ The official GitHub page for the survey paper "Towards Next-Generation LLM-based
 
 ![Alt text](./figs/statics_of_paper.png)
 
-## Cite
+## 📖 Citation
 If you compare with, build on, or use aspects of this work, please cite the following:
 ```
 @article{wang2024towards,
