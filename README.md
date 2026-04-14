@@ -13,7 +13,7 @@ The official GitHub page for the survey paper "Towards Next-Generation LLM-based
 ![](https://img.shields.io/github/forks/jindongli-Ai/Next-Generation-LLM-based-Recommender-Systems-Survey?color=lightblue)
 ![](https://img.shields.io/github/last-commit/jindongli-Ai/Next-Generation-LLM-based-Recommender-Systems-Survey?color=green)
 ![](https://img.shields.io/badge/PRs-Welcome-blue)
-<a href="https://arxiv.org/abs/2410.19744" target="_blank"><img src="https://img.shields.io/badge/arXiv-2504.10903-009688.svg" alt="arXiv"></a>
+<a href="https://arxiv.org/abs/2410.19744" target="_blank"><img src="https://img.shields.io/badge/arXiv-2410.19744-009688.svg" alt="arXiv"></a>
 
 </div>
 
